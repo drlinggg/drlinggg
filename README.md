@@ -1,11 +1,11 @@
+
+# Мой район:
+![image](https://github.com/drlinggg/drlinggg/assets/124909828/13b6d9e3-2e12-43fd-9002-634282c84e2d)
+
+# Мои кенты:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drlinggg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 # Я:
 ![image](https://github.com/drlinggg/drlinggg/assets/124909828/4ff10600-e537-46c9-a18e-06f5dfcc8251)
 
 [Тиньков про ИТМО](https://www.youtube.com/watch?v=pdjEya1uypM&ab_channel=qwerty) - [Сладкие лабы с 1 сема](https://github.com/drlinggg/labs) - [Telegram](https://t.me/iwdhmp)
-
-# Мои кенты:
-<img src="https://camo.githubusercontent.com/91be18bebd8afe5f89a4fb59eeb04ab47b5729a29c868185ee5221407a741c87/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" width="50" height="50"> <img src="https://camo.githubusercontent.com/910e9fa5713f0f2aa489815db1897e5698c6bfc66af3d123b2912a269ff98ae7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" width="50" height="50">
-<img src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" width="50" height="50"><img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" width="50" height="50"><img src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" width="50" height="50">
-
-# Мой район:
-![image](https://github.com/drlinggg/drlinggg/assets/124909828/13b6d9e3-2e12-43fd-9002-634282c84e2d)
